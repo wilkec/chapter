@@ -1,8 +1,11 @@
 [
-    {
-     "module" : "dirlister"
-    },
-    {
-    "module" : "environment"
-    }
+  {
+  "module":"dirlister"
+  },
+  {
+  "module":"environment"
+  },
+  {
+  "module": "screenshotter"
+  }
 ]
